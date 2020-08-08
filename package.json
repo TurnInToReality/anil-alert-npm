@@ -1,0 +1,16 @@
+{
+  "name": "anil-npm-package",
+  "version": "1.0.0",
+  "description": "First package trying to publish to the NPM",
+  "main": "anil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anil",
+    "npm",
+    "package"
+  ],
+  "author": "anil kotha",
+  "license": "ISC"
+}
